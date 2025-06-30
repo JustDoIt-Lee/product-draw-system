@@ -39,5 +39,5 @@
 ---
 
 ## 📑 기타 문서
-- [ERD 보기](https://www.notion.so/ERD-ffffd08c4eee811dbf92cb8851a107bf?pvs=21)
+- [ERD 보기](./images/erd.png)
 - [스토리보드](https://www.notion.so/ffffd08c4eee8149bb06f4be0678f342?pvs=21)
