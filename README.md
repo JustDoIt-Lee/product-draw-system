@@ -11,7 +11,7 @@
 - **ORM**: JPA, Hibernate
 - **Testing**: JUnit4, JMeter
 - **Version Control**: Git
-- **Build Tool**: Maven or Gradle (선택한 것 명시)
+- **Build Tool**: Maven
 
 ---
 
